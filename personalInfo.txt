@@ -1,0 +1,3 @@
+I used `Const` to declare a variable that cannnot be changed which is ,`fullName`, since the name is not expected to change. 
+I used `let` to declare the variable `age` since it can change after an year.
+i `var` to check if
